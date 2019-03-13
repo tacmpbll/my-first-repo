@@ -7,7 +7,7 @@ I live out of a carryon and a laptop bag;
  a cabin near a ski resort.
 
 
-###Reading
+### Reading
 
 I read non-fiction, like Unix tutorials :)
 
