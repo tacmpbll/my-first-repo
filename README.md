@@ -1,29 +1,22 @@
-# This is a large heading
+# Tyler Campbell
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-Te forms of things *unnown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live out of a carryon and a laptop bag;
+ I have hunting land in the lowcountry and
+ a cabin near a ski resort.
 
--This is
--an unordered
--list
 
-1. THis is
-2. an ordered 
-3. list
+###Reading
 
-Her is `some code` in the middle of a sentence
+I read non-fiction, like Unix tutorials :)
 
-```
-this is
-a bloc
-of code
-```
 
-Here is how you mae [a link](https://www.wiipedia.org/).
+### Food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/arl-moustache.jpg)
+I prefer crustaceans and wildgame. 
 
+
+### Contact
+
+I respond to smoke signals launched from [Carolina Moutains](https://en.wikipedia.org/wiki/List_of_mountains_in_North_Carolina)
