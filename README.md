@@ -15,13 +15,13 @@ A local *habitation* and a **name**.
 2. an ordered 
 3. list
 
-Her is 'some code' in the middle of a sentence
+Her is `some code` in the middle of a sentence
 
-'''
+```
 this is
 a bloc
 of code
-'''
+```
 
 Here is how you mae [a link](https://www.wiipedia.org/).
 
