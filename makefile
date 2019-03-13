@@ -1,8 +1,9 @@
 all: README.md
 
 README.md:
-	echo "This is the README file" > README.md
-	echo "# Peer-graded Assignment (title)" >> README.md
-	echo "make was ran at ((update))"  >> README.md
-	echo "number of lines of code in guessinggame.s ((update))" >> README.md
-	
+	echo "# Peer Reviewed Assignment for Unix Workbench " > README.md
+	echo "make was run at " >> README.md
+	date >> README.md
+	echo "the number of code lines in guessinggame.sh is - " >> README.md
+	wc -l guessinggame.sh >> README.md
+
